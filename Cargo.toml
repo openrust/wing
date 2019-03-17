@@ -1,0 +1,9 @@
+[package]
+name = "wing"
+version = "0.1.0"
+authors = ["Uncho <sergeychang@gmail.com>"]
+edition = "2018"
+description = "Fast and lightweight http framework."
+license = "MIT"
+
+[dependencies]
